@@ -6,11 +6,14 @@ A collection of learning materials and study notes organized by topic/language.
 ## Structure
 ```
 learning-archive/
-├── [topic-folder]/
-│   └── README.md
+├── object/          # 객체지향 학습 (Java 21 + Gradle)
+│   ├── src/
+│   │   ├── main/java/
+│   │   └── test/java/
+│   └── build.gradle
 └── ...
 ```
 
 ## Topics
-<!-- Add your learning topics here as you create new folders -->
+- [object](./object) - 객체지향 프로그래밍 학습
 
